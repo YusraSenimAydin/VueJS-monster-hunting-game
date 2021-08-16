@@ -1,3 +1,4 @@
+//kodların optimize edilmiş hali 
 new Vue({
     el : "#app",
     data : {
